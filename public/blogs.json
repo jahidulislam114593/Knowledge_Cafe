@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to React Hooks",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Sara Lee",
+        "posted_date": "2024-08-01",
+        "reading_time": 10,
+        "hashtag": ["#react", "#javascript", "#webdev"],
+        "description": "Learn how to use React Hooks to manage state and side effects in functional components."
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Understanding Asynchronous JavaScript",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Mark Johnson",
+        "posted_date": "2024-07-20",
+        "reading_time": 12,
+        "hashtag": ["#javascript", "#async", "#webdev"],
+        "description": "Dive into the concepts of promises, async/await, and callbacks in JavaScript."
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Building RESTful APIs with Node.js",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Emily White",
+        "posted_date": "2024-07-15",
+        "reading_time": 14,
+        "hashtag": ["#nodejs", "#api", "#webdev"],
+        "description": "Step-by-step guide to creating RESTful APIs using Node.js and Express."
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Exploring Python Data Analysis Libraries",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Jason Lee",
+        "posted_date": "2024-06-30",
+        "reading_time": 16,
+        "hashtag": ["#python", "#dataanalysis", "#datascience"],
+        "description": "An overview of popular Python libraries like Pandas, NumPy, and Matplotlib for data analysis."
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to Docker Containers",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Nina Moore",
+        "posted_date": "2024-06-25",
+        "reading_time": 12,
+        "hashtag": ["#docker", "#containers", "#devops"],
+        "description": "A beginner's guide to using Docker for containerization and deployment."
+    },
+    {
+        "id": 6,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Advanced CSS Grid Layout Techniques",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Alex Turner",
+        "posted_date": "2024-06-10",
+        "reading_time": 9,
+        "hashtag": ["#css", "#grid", "#webdesign"],
+        "description": "Explore advanced techniques for creating complex layouts with CSS Grid."
+    },
+    {
+        "id": 7,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to TypeScript",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Rachel Adams",
+        "posted_date": "2024-05-25",
+        "reading_time": 11,
+        "hashtag": ["#typescript", "#javascript", "#webdev"],
+        "description": "Learn the basics of TypeScript and how it enhances JavaScript with static typing."
+    },
+    {
+        "id": 8,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Getting Started with GraphQL",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "James Wilson",
+        "posted_date": "2024-05-10",
+        "reading_time": 13,
+        "hashtag": ["#graphql", "#api", "#webdev"],
+        "description": "An introduction to GraphQL, a query language for APIs, and how to use it in your projects."
+    },
+    {
+        "id": 9,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Best Practices for Writing Clean Code",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Sophia Adams",
+        "posted_date": "2024-04-30",
+        "reading_time": 14,
+        "hashtag": ["#coding", "#clean-code", "#softwaredevelopment"],
+        "description": "Tips and techniques for writing clean, maintainable code in any programming language."
+    },
+    {
+        "id": 10,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Exploring REST vs GraphQL",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Liam Scott",
+        "posted_date": "2024-04-15",
+        "reading_time": 12,
+        "hashtag": ["#graphql", "#rest", "#api"],
+        "description": "A comparison of RESTful APIs and GraphQL, and when to use each."
+    },
+    {
+        "id": 11,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to Machine Learning with Python",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Ella Williams",
+        "posted_date": "2024-03-30",
+        "reading_time": 15,
+        "hashtag": ["#machinelearning", "#python", "#datascience"],
+        "description": "An introduction to machine learning concepts and Python libraries for ML."
+    },
+    {
+        "id": 12,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Building Scalable Web Applications",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "David Clark",
+        "posted_date": "2024-03-15",
+        "reading_time": 14,
+        "hashtag": ["#scalability", "#webdev", "#architecture"],
+        "description": "Strategies and best practices for designing and building scalable web applications."
+    },
+    {
+        "id": 13,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Debugging JavaScript Applications",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Andrew Brown",
+        "posted_date": "2024-02-28",
+        "reading_time": 11,
+        "hashtag": ["#javascript", "#debugging", "#webdev"],
+        "description": "Techniques and tools for effectively debugging JavaScript code."
+    },
+    {
+        "id": 14,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Exploring Cloud Services for Developers",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Jessica Green",
+        "posted_date": "2024-02-10",
+        "reading_time": 12,
+        "hashtag": ["#cloud", "#devops", "#webdev"],
+        "description": "A guide to popular cloud services and how they can benefit developers."
+    },
+    {
+        "id": 15,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "The Future of Artificial Intelligence",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Chris Young",
+        "posted_date": "2024-01-25",
+        "reading_time": 13,
+        "hashtag": ["#ai", "#artificialintelligence", "#futuretech"],
+        "description": "Exploring the trends and future directions in artificial intelligence technology."
+    },
+    {
+        "id": 16,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Understanding WebAssembly",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Olivia Davis",
+        "posted_date": "2024-01-10",
+        "reading_time": 11,
+        "hashtag": ["#webassembly", "#webdev", "#programming"],
+        "description": "An introduction to WebAssembly and how it can improve web performance."
+    },
+    {
+        "id": 17,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Developing Mobile Apps with Flutter",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Ethan Lee",
+        "posted_date": "2023-12-15",
+        "reading_time": 14,
+        "hashtag": ["#flutter", "#mobiledev", "#programming"],
+        "description": "How to use Flutter to build cross-platform mobile applications."
+    },
+    {
+        "id": 18,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to Kubernetes",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Emily Brown",
+        "posted_date": "2023-12-01",
+        "reading_time": 13,
+        "hashtag": ["#kubernetes", "#containers", "#devops"],
+        "description": "An introduction to Kubernetes and its role in container orchestration."
+    },
+    {
+        "id": 19,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Effective Testing Strategies for Web Applications",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Michael Harris",
+        "posted_date": "2023-11-15",
+        "reading_time": 12,
+        "hashtag": ["#testing", "#webdev", "#softwareengineering"],
+        "description": "Best practices and tools for testing web applications to ensure quality and reliability."
+    },
+    {
+        "id": 20,
+        "cover_img": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
+        "title": "Introduction to Serverless Architecture",
+        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "author": "Sophia Miller",
+        "posted_date": "2023-11-01",
+        "reading_time": 13,
+        "hashtag": ["#serverless", "#cloud", "#webdev"],
+        "description": "An overview of serverless architecture and its benefits for building scalable applications."
+    }
+]
