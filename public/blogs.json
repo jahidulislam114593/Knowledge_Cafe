@@ -1,57 +1,79 @@
 [
     {
         "id": 1,
-        "cover": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
-        "title": "Introduction to React Hooks",
-        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "cover": "https://i.ibb.co/6RMFyHC/male-system-hacker-coding-security-program-pc-software-programming-firewall-data-encryption-server-u.jpg",
+        "title": "Mastering Machine Learning Algorithms",
+        "author_img": "https://i.ibb.co/qyLX0NW/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands.jpg",
         "author": "Sara Lee",
         "posted_date": "2024-08-01",
         "reading_time": 10,
-        "hashtag": ["#react", "#javascript", "#webdev"],
-        "description": "Learn how to use React Hooks to manage state and side effects in functional components."
+        "hashtag": ["#machinelearning", "#algorithms", "#datascience"],
+        "description": "A comprehensive guide to understanding and implementing popular machine learning algorithms."
     },
     {
         "id": 2,
-        "cover": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
-        "title": "Understanding Asynchronous JavaScript",
-        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "cover": "https://i.ibb.co/MPmjDCP/programming-background-with-person-working-with-codes-computer.jpg",
+        "title": "Deep Dive into Python Decorators",
+        "author_img": "https://i.ibb.co/JzRHNNH/young-cute-woman-cap-glasses-posing-outside-showing-thumbs-up-high-quality-photo.jpg",
         "author": "Mark Johnson",
         "posted_date": "2024-07-20",
         "reading_time": 12,
-        "hashtag": ["#javascript", "#async", "#webdev"],
-        "description": "Dive into the concepts of promises, async/await, and callbacks in JavaScript."
+        "hashtag": ["#python", "#decorators", "#programming"],
+        "description": "Explore the power and flexibility of Python decorators and how to use them effectively."
     },
     {
         "id": 3,
-        "cover": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
-        "title": "Building RESTful APIs with Node.js",
-        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "cover": "https://i.ibb.co/hmsTbKy/12686644-SL-103020-37400-03.jpg",
+        "title": "Building Scalable Microservices with Spring Boot",
+        "author_img": "https://i.ibb.co/LvC8WKM/relaxed-carefree-smiling-young-woman-wearing-white-casual-t-shirt-glasses-having-positive-facial-exp.jpg",
         "author": "Emily White",
         "posted_date": "2024-07-15",
         "reading_time": 14,
-        "hashtag": ["#nodejs", "#api", "#webdev"],
-        "description": "Step-by-step guide to creating RESTful APIs using Node.js and Express."
+        "hashtag": ["#springboot", "#microservices", "#java"],
+        "description": "Learn to develop scalable and efficient microservices using Spring Boot and Java."
     },
     {
         "id": 4,
-        "cover": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
-        "title": "Exploring Python Data Analysis Libraries",
-        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "cover": "https://i.ibb.co/5LH7MJ7/side-shot-code-editor-using-react-js.jpg",
+        "title": "Introduction to Functional Programming in JavaScript",
+        "author_img": "https://i.ibb.co/pn5RRNx/portrait-young-female-model-with-perfect-skin-posing-fashion-isolated-white-background.jpg",
         "author": "Jason Lee",
         "posted_date": "2024-06-30",
         "reading_time": 16,
-        "hashtag": ["#python", "#dataanalysis", "#datascience"],
-        "description": "An overview of popular Python libraries like Pandas, NumPy, and Matplotlib for data analysis."
+        "hashtag": ["#javascript", "#functionalprogramming", "#programming"],
+        "description": "Discover the principles of functional programming in JavaScript and how to apply them."
     },
     {
         "id": 5,
-        "cover": "https://i.ibb.co/Jk0SP0K/91142118-00fd-4e5a-917f-f242e1598e58.jpg",
-        "title": "Introduction to Docker Containers",
-        "author_img": "https://i.ibb.co/JdNgDwC/4b2e21d7-0e15-4976-b4a6-fbcdb3362d90.jpg",
+        "cover": "https://i.ibb.co/JQBkFTt/18697.jpg",
+        "title": "Exploring Kubernetes for Container Orchestration",
+        "author_img": "https://i.ibb.co/zsD7kVy/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair.jpg",
         "author": "Nina Moore",
         "posted_date": "2024-06-25",
         "reading_time": 12,
-        "hashtag": ["#docker", "#containers", "#devops"],
-        "description": "A beginner's guide to using Docker for containerization and deployment."
+        "hashtag": ["#kubernetes", "#containers", "#devops"],
+        "description": "An introduction to Kubernetes and how it can be used for container orchestration and management."
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/f8kjwbj/13805009-1904-i305-019-programmer.jpg",
+        "title": "Understanding GraphQL for Modern Web APIs",
+        "author_img": "https://i.ibb.co/7zYyMd5/friendly-smiling-woman-looking-pleased-front.jpg",
+        "author": "Alex Kim",
+        "posted_date": "2024-08-03",
+        "reading_time": 15,
+        "hashtag": ["#graphql", "#webapis", "#webdev"],
+        "description": "Learn the fundamentals of GraphQL and how to build modern web APIs with it."
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/JQBkFTt/18697.jpg",
+        "title": "Advanced Techniques in CSS for Responsive Design",
+        "author_img": "https://i.ibb.co/K73Z5zK/frowning-young-pretty-woman-standing-with-closed-posture-profile-view-isolated-pink-background-with.jpg",
+        "author": "Liam Parker",
+        "posted_date": "2024-08-02",
+        "reading_time": 13,
+        "hashtag": ["#css", "#responsivedesign", "#webdev"],
+        "description": "Explore advanced CSS techniques to create responsive and modern web designs."
     }
 ]
